@@ -3,8 +3,6 @@
 
 # Description
 
-![](https://lh3.googleusercontent.com/proxy/yp9BOu8Xg-qtM9tyDfE9PFPuwSWaw--CY5QQn7Wex30Zdb52uN9BBseZeCW2DVwHftwrz5qV9x8GxL36b4IUi-U8BDmtBK9kWigxiQd9xjN5d6IoyfWVoSEEuQfBjMCRmPhH2bgmnxEGgBMf8NCY8ktN2Wk52Fse8pIuhVcVoUusXcOciafAzxPwjUMuH6xMr6zHoquQVIC-l49Fad1mkXpCJNJHhRGWj8go1v1koZzDajdh51yz_k0VFNwQncsntHlimED2uA13ImWWnzgJVSoeLClcr_CFvhIzBv9NWTKsGSKEOQwLorTD0qdSym1Lww)
-
 본 PNU_SW_Special_Admission_Portfolio repository는 2019년 부산대 sw특기자 전형 입시에 사용한 프로젝트 포트폴리오입니다.
 
 포트폴리오에는 여기 존재하는 자료뿐 아니라, 수상실적, 생활기록부, 자격증 등이 뒷받침된 것을 고려해야합니다.
