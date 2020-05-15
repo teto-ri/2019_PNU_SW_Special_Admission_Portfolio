@@ -13,7 +13,7 @@
 
 # 프로젝트 구성
 
-## 1. Stray_Cat_TNR_service
+## 1. Stray_Cat_TNR_service - 팀프로젝트
 
 부산 소프트웨어 교육 페스티벌 대상작 : 길고양이 관리 서비스
 
@@ -21,13 +21,13 @@
 
 대회 컴퓨터 사용으로 코드 소실, 프로토타입 사진과 설명서로 자료 존재 
 
-## 2. Autonomous_Driving in GTA5
+## 2. Autonomous_Driving in GTA5 - 개인프로젝트
 
 GTA5 게임과 OpenCV를 활용한 규칙 / 머신러닝 기반의 자율주행 AI 훈련
 
 (python, tensorflow, openCV, Alexnet CNN 모델) 사용 
 
-## 3. Predict_score
+## 3. Predict_score - 개인프로젝트
 
 Multiple Regression을 이용한 공부 습관별 성적 예측 인공 신경망
 
