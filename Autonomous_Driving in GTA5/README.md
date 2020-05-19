@@ -27,4 +27,4 @@ https://www.tensorflow.org,  http://tflearn.org/, http://opencv.org/(tensorflow,
 
 ![](https://i.imgur.com/YcWnpyo.png)
 
-![](https://i.imgur.com/EkKsLDL.png)
+![](https://i.imgur.com/I6stfjH.png)
